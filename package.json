@@ -1,0 +1,25 @@
+{
+  "name": "pato-bot",
+  "version": "0.0.1",
+  "description": "The Pato Bot comes to life!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArekusuNaito/pato-bot.git"
+  },
+  "keywords": [
+    "Pato",
+    "Bot",
+    "Telegram",
+    "TelegramBot"
+  ],
+  "author": "ArekusuNaito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArekusuNaito/pato-bot/issues"
+  },
+  "homepage": "https://github.com/ArekusuNaito/pato-bot#readme"
+}
